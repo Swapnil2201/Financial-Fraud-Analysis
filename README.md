@@ -43,3 +43,5 @@ The conclusion summarizes the key findings and contributions of the study, empha
 Feel free to explore the repository, review the project code, and contribute to the ongoing evolution of fraud detection methodologies. Your insights and contributions are valuable for advancing the efficacy of fraud prevention systems.
 
 Happy coding!
+
+##please go to kaggle website to download the dataset.
